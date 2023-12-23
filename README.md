@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdjinaMohamed
+- 👋 Hi, I’m @AdjinaMohame
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning applied artificial intelligence 
 
